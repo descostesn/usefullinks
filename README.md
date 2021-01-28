@@ -14,3 +14,6 @@ https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/bo
 
 Recount2:
 https://jhubiostatistics.shinyapps.io/recount/
+
+Snakemake checkpoints:
+http://ivory.idyll.org/blog/2021-snakemake-checkpoints.html
