@@ -17,3 +17,6 @@ https://jhubiostatistics.shinyapps.io/recount/
 
 Snakemake checkpoints:
 http://ivory.idyll.org/blog/2021-snakemake-checkpoints.html
+
+conda env on hpc:
+https://kb.iu.edu/d/axgp#conda-init
