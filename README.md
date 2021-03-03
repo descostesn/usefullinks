@@ -29,3 +29,6 @@ https://elixir-europe.org/platforms/interoperability
 
 workflow hub:
 https://workflowhub.eu/
+
+guide to reproducible research:
+https://the-turing-way.netlify.app/reproducible-research/reproducible-research.html
