@@ -26,3 +26,6 @@ https://rdmkit.elixir-europe.org/index.html
 
 Interoperability platform:
 https://elixir-europe.org/platforms/interoperability
+
+workflow hub:
+https://workflowhub.eu/
