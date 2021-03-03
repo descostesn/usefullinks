@@ -20,3 +20,9 @@ http://ivory.idyll.org/blog/2021-snakemake-checkpoints.html
 
 conda env on hpc:
 https://kb.iu.edu/d/axgp#conda-init
+
+Reproducible toolkit:
+https://rdmkit.elixir-europe.org/index.html
+
+Interoperability platform:
+https://elixir-europe.org/platforms/interoperability
