@@ -32,3 +32,5 @@ https://workflowhub.eu/
 
 guide to reproducible research:
 https://the-turing-way.netlify.app/reproducible-research/reproducible-research.html
+
+galaxy admin: https://github.com/galaxyproject/admin-training
