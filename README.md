@@ -34,3 +34,5 @@ guide to reproducible research:
 https://the-turing-way.netlify.app/reproducible-research/reproducible-research.html
 
 galaxy admin: https://github.com/galaxyproject/admin-training
+
+fastq repo: ftp://ftp.sra.ebi.ac.uk/vol1/fastq/
