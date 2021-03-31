@@ -36,3 +36,7 @@ https://the-turing-way.netlify.app/reproducible-research/reproducible-research.h
 galaxy admin: https://github.com/galaxyproject/admin-training
 
 fastq repo: ftp://ftp.sra.ebi.ac.uk/vol1/fastq/
+
+kahoot: kahoot.it / kahoot.com
+
+Elixir train the trainer: https://docs.google.com/document/d/1ZkwDJDii5nHFPDsiMto-Fwyw9W1od9IHDzJL_t-uuR8/edit#
