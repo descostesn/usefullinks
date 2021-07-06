@@ -40,3 +40,6 @@ fastq repo: ftp://ftp.sra.ebi.ac.uk/vol1/fastq/
 kahoot: kahoot.it / kahoot.com
 
 Elixir train the trainer: https://docs.google.com/document/d/1ZkwDJDii5nHFPDsiMto-Fwyw9W1od9IHDzJL_t-uuR8/edit#
+
+ATAC-Seq video:
+https://www.youtube.com/watch?v=VZFUu_cJxyI
