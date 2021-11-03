@@ -43,3 +43,6 @@ Elixir train the trainer: https://docs.google.com/document/d/1ZkwDJDii5nHFPDsiMt
 
 ATAC-Seq video:
 https://www.youtube.com/watch?v=VZFUu_cJxyI
+
+CookieCutter:
+https://medium.com/worldsensing-techblog/project-templates-and-cookiecutter-6d8f99a06374
