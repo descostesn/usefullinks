@@ -46,3 +46,6 @@ https://www.youtube.com/watch?v=VZFUu_cJxyI
 
 CookieCutter:
 https://medium.com/worldsensing-techblog/project-templates-and-cookiecutter-6d8f99a06374
+
+Multi-omics workshop:
+https://uppsala.instructure.com/courses/52162/pages/schedule
