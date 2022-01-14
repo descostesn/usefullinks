@@ -49,3 +49,21 @@ https://medium.com/worldsensing-techblog/project-templates-and-cookiecutter-6d8f
 
 Multi-omics workshop:
 https://uppsala.instructure.com/courses/52162/pages/schedule
+
+Authorships:
+https://credit.niso.org/
+http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html
+https://publicationethics.org/authorship
+
+Publication ethics:
+https://www.councilscienceeditors.org/resource-library/editorial-policies/white-paper-on-publication-ethics/
+
+EMBL open science:
+https://www.embl.org/internal-information/wp-content/uploads/2021/12/open-science-implementation-guidelines.pdf
+
+The Declaration on Research Assessment:
+https://sfdora.org/
+
+Multi-stages singularity:
+https://git.embl.de/tabaro/snakemake-pipelines/-/blob/main/singularity/Singularity.bedtools
+
