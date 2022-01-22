@@ -67,3 +67,5 @@ https://sfdora.org/
 Multi-stages singularity:
 https://git.embl.de/tabaro/snakemake-pipelines/-/blob/main/singularity/Singularity.bedtools
 
+singularity CI:
+https://git.embl.de/tabaro/snakemake-pipelines/-/blob/main/.gitlab-ci.yml
