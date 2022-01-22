@@ -64,8 +64,12 @@ https://www.embl.org/internal-information/wp-content/uploads/2021/12/open-scienc
 The Declaration on Research Assessment:
 https://sfdora.org/
 
-Multi-stages singularity:
+Multi-stages singularity by Francesco:
 https://git.embl.de/tabaro/snakemake-pipelines/-/blob/main/singularity/Singularity.bedtools
 
-singularity CI:
+singularity CI by Francesco:
 https://git.embl.de/tabaro/snakemake-pipelines/-/blob/main/.gitlab-ci.yml
+
+singularity CI by IT:
+https://git.embl.de/grp-itservices/singularity-reg/-/blob/master/.gitlab-ci.yml
+
