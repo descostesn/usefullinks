@@ -73,3 +73,13 @@ https://git.embl.de/tabaro/snakemake-pipelines/-/blob/main/.gitlab-ci.yml
 singularity CI by IT:
 https://git.embl.de/grp-itservices/singularity-reg/-/blob/master/.gitlab-ci.yml
 
+spatial-transcriptomics:
+https://www.nature.com/articles/s41587-021-01006-2#Sec9
+https://www.nature.com/articles/s41586-019-1049-y
+https://biofam.github.io/MOFA2/MEFISTO.html
+https://squidpy.readthedocs.io/en/stable/auto_tutorials/tutorial_seqfish.html
+https://github.com/spacetx/starfish#starfish-scalable-pipelines-for-image-based-transcriptomics
+
+Graphical access with x2go:
+https://wiki.embl.de/cluster/Env#Graphical_Access
+
