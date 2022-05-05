@@ -83,3 +83,9 @@ https://github.com/spacetx/starfish#starfish-scalable-pipelines-for-image-based-
 Graphical access with x2go:
 https://wiki.embl.de/cluster/Env#Graphical_Access
 
+Workflowhub:
+https://about.workflowhub.eu/
+
+Workflows community initiative:
+https://workflows.community/
+
