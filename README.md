@@ -89,3 +89,4 @@ https://about.workflowhub.eu/
 Workflows community initiative:
 https://workflows.community/
 
+Look at docker recipe: https://git.embl.de/kaspar/learnr-project
