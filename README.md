@@ -90,3 +90,6 @@ Workflows community initiative:
 https://workflows.community/
 
 Look at docker recipe: https://git.embl.de/kaspar/learnr-project
+
+Awsome pipelines repository:
+https://github.com/pditommaso/awesome-pipeline
