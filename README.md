@@ -93,3 +93,9 @@ Look at docker recipe: https://git.embl.de/kaspar/learnr-project
 
 Awsome pipelines repository:
 https://github.com/pditommaso/awesome-pipeline
+
+Nextflow tutorial to start with:
+https://sateeshperi.github.io/nextflow_varcal/nextflow/
+
+Nextflow tutorials:
+https://nf-co.re/docs/usage/nextflow
