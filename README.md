@@ -102,3 +102,6 @@ https://nf-co.re/docs/usage/nextflow
 
 About managing a core:
 https://www.researchcomputingteams.org/resources
+
+JBrowse 2:
+https://jbrowse.org/jb2/
