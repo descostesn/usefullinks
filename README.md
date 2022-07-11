@@ -99,3 +99,6 @@ https://sateeshperi.github.io/nextflow_varcal/nextflow/
 
 Nextflow tutorials:
 https://nf-co.re/docs/usage/nextflow
+
+About managing a core:
+https://www.researchcomputingteams.org/resources
