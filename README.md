@@ -105,3 +105,9 @@ https://www.researchcomputingteams.org/resources
 
 JBrowse 2:
 https://jbrowse.org/jb2/
+
+Visual integration tool for exploration of spatial single cell experiments:
+http://vitessce.io/
+
+human body at single-cell resolution:
+https://hubmapconsortium.org/
