@@ -111,3 +111,6 @@ http://vitessce.io/
 
 human body at single-cell resolution:
 https://hubmapconsortium.org/
+
+psupertime: supervised pseudotime analysis for time-series single-cell RNA-seq data
+https://academic.oup.com/bioinformatics/article/38/Supplement_1/i290/6617492
