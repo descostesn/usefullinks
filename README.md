@@ -114,3 +114,6 @@ https://hubmapconsortium.org/
 
 psupertime: supervised pseudotime analysis for time-series single-cell RNA-seq data
 https://academic.oup.com/bioinformatics/article/38/Supplement_1/i290/6617492
+
+About using nextflow:
+https://www.reddit.com/r/bioinformatics/comments/sc8e0i/does_everyone_use_nextflow_thesedays/?utm_source=share&utm_medium=web2x&context=3
