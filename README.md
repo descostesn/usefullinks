@@ -120,3 +120,5 @@ https://www.reddit.com/r/bioinformatics/comments/sc8e0i/does_everyone_use_nextfl
 
 spacemake:
 https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giac064/6646447?login=true
+
+--------------------- Aug 2022
