@@ -129,3 +129,5 @@ https://www.biorxiv.org/content/10.1101/2020.06.11.146746v2
 Choose your statistical test:
 https://www.statstest.com/
 
+Collection of singularities:
+https://depot.galaxyproject.org/singularity/
