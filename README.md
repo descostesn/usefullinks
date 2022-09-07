@@ -134,3 +134,6 @@ https://depot.galaxyproject.org/singularity/
 
 open ebench:
 https://openebench.bsc.es/benchmarking
+
+Workflow finder:
+https://australianbiocommons.github.io/2_1_workflows.html
