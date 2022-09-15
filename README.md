@@ -137,3 +137,6 @@ https://openebench.bsc.es/benchmarking
 
 Workflow finder:
 https://australianbiocommons.github.io/2_1_workflows.html
+
+GitHub Actions Tutorial - Basic Concepts and CI/CD Pipeline with Docker:
+https://www.youtube.com/watch?v=R8_veQiYBjI
