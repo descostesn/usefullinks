@@ -140,3 +140,7 @@ https://australianbiocommons.github.io/2_1_workflows.html
 
 GitHub Actions Tutorial - Basic Concepts and CI/CD Pipeline with Docker:
 https://www.youtube.com/watch?v=R8_veQiYBjI
+
+Dockerhub best practices:
+https://www.docker.com/blog/best-practices-for-using-docker-hub-for-ci-cd/
+
