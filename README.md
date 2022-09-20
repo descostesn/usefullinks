@@ -144,3 +144,5 @@ https://www.youtube.com/watch?v=R8_veQiYBjI
 Dockerhub best practices:
 https://www.docker.com/blog/best-practices-for-using-docker-hub-for-ci-cd/
 
+Publishing docker images with github actions:
+https://docs.github.com/en/actions/publishing-packages/publishing-docker-images
