@@ -146,3 +146,9 @@ https://www.docker.com/blog/best-practices-for-using-docker-hub-for-ci-cd/
 
 Publishing docker images with github actions:
 https://docs.github.com/en/actions/publishing-packages/publishing-docker-images
+
+snakemake tutorial:
+check: https://edcarp.github.io/2022-11-08_ed-dash_workflows-snakemake/
+
+Nextflow tutorial:
+check: https://edcarp.github.io/2023-01-24_ed-dash_workflows-nextflow/
