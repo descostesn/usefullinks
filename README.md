@@ -148,7 +148,7 @@ Publishing docker images with github actions:
 https://docs.github.com/en/actions/publishing-packages/publishing-docker-images
 
 snakemake tutorial:
-check: https://edcarp.github.io/2022-11-08_ed-dash_workflows-snakemake/
+https://edcarp.github.io/2022-11-08_ed-dash_workflows-snakemake/
 
 Nextflow tutorial:
-check: https://edcarp.github.io/2023-01-24_ed-dash_workflows-nextflow/
+https://edcarp.github.io/2023-01-24_ed-dash_workflows-nextflow/
