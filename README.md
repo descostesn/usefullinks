@@ -152,3 +152,6 @@ https://edcarp.github.io/2022-11-08_ed-dash_workflows-snakemake/
 
 Nextflow tutorial:
 https://edcarp.github.io/2023-01-24_ed-dash_workflows-nextflow/
+
+10 things for Curating Reproducible and FAIR Research:
+https://curating4reproducibility.org/10things/
