@@ -161,3 +161,6 @@ https://docs.github.com/en/actions/using-workflows/triggering-a-workflow#accessi
 
 Running a workflow only if a previous one succeeded on github CI:
 https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#running-a-workflow-based-on-the-conclusion-of-another-workflow
+
+The github check API:
+https://docs.github.com/en/rest/guides/getting-started-with-the-checks-api
