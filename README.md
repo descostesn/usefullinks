@@ -159,3 +159,5 @@ https://curating4reproducibility.org/10things/
 Preventing a file from being modified on pull request using github CI:
 https://docs.github.com/en/actions/using-workflows/triggering-a-workflow#accessing-and-using-event-properties
 
+Running a workflow only if a previous one succeeded on github CI:
+https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#running-a-workflow-based-on-the-conclusion-of-another-workflow
