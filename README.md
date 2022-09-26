@@ -164,3 +164,6 @@ https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows
 
 The github check API:
 https://docs.github.com/en/rest/guides/getting-started-with-the-checks-api
+
+Amazon workshop:
+http://slchen-lab-training.s3-website-ap-southeast-1.amazonaws.com/01-hpc-overview.html
