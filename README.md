@@ -168,3 +168,15 @@ https://docs.github.com/en/rest/guides/getting-started-with-the-checks-api
 
 Amazon workshop:
 http://slchen-lab-training.s3-website-ap-southeast-1.amazonaws.com/01-hpc-overview.html
+
+https://www.frontiersin.org/articles/10.3389/fncir.2020.00025/full
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008565
+https://cns2020online.sched.com/event/cslO/w2-s07-online-methods-for-real-time-analysis-of-calcium-imaging-data
+https://cbmm.mit.edu/learning-hub/tutorials/computational-tutorial/calcium-imaging-data-cell-extraction
+https://www.ml.cmu.edu/research/joint_phd_dissertations/Zhou-Pengcheng-thesis-cnbc-2016.pdf
+https://www.cnsorg.org/
+https://www.cnsorg.org/committees
+https://www.youtube.com/channel/UCqz8NIG24tV1HHCkKidA4Nw/videos
+https://neurostars.org/
+https://neurostars.org/g/OCNSStudentSig
+https://www.cnsorg.org/newsletter
