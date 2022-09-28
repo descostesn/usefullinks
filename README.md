@@ -180,3 +180,7 @@ https://www.youtube.com/channel/UCqz8NIG24tV1HHCkKidA4Nw/videos
 https://neurostars.org/
 https://neurostars.org/g/OCNSStudentSig
 https://www.cnsorg.org/newsletter
+
+--------------------------------------------- October 2022
+
+https://git.embl.de/tabaro/snakemake-playground
