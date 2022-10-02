@@ -184,3 +184,6 @@ https://www.cnsorg.org/newsletter
 --------------------------------------------- October 2022
 
 https://git.embl.de/tabaro/snakemake-playground
+
+FAIR Computational Workflows:
+https://direct.mit.edu/dint/article/2/1-2/108/10003/FAIR-Computational-Workflows
