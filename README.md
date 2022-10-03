@@ -190,3 +190,6 @@ https://direct.mit.edu/dint/article/2/1-2/108/10003/FAIR-Computational-Workflows
 
 Tess training material:
 https://tess.elixir-europe.org/
+
+Single-cell on galaxy:
+https://singlecell.usegalaxy.eu/
