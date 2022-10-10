@@ -193,3 +193,6 @@ https://tess.elixir-europe.org/
 
 Single-cell on galaxy:
 https://singlecell.usegalaxy.eu/
+
+AWS and scientific computing:
+https://www.noahlebovic.com/aws-doesnt-make-sense-for-scientific-computing/
