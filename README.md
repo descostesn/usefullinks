@@ -196,3 +196,6 @@ https://singlecell.usegalaxy.eu/
 
 AWS and scientific computing:
 https://www.noahlebovic.com/aws-doesnt-make-sense-for-scientific-computing/
+
+Tutorial by Sarah Kasper on Biostatistics: 
+https://www.ebi.ac.uk/training/online/courses/biostatistics-introduction/
