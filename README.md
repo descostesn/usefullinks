@@ -199,3 +199,6 @@ https://www.noahlebovic.com/aws-doesnt-make-sense-for-scientific-computing/
 
 Tutorial by Sarah Kasper on Biostatistics: 
 https://www.ebi.ac.uk/training/online/courses/biostatistics-introduction/
+
+Resources for RNA-seq processed data:
+https://maayanlab.cloud/archs4/index.html
