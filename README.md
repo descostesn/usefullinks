@@ -202,3 +202,6 @@ https://www.ebi.ac.uk/training/online/courses/biostatistics-introduction/
 
 Resources for RNA-seq processed data:
 https://maayanlab.cloud/archs4/index.html
+
+Babraham training material:
+https://www.bioinformatics.babraham.ac.uk/training.html
