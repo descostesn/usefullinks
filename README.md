@@ -207,3 +207,5 @@ Babraham training material:
 https://www.bioinformatics.babraham.ac.uk/training.html
 
 fastqscreen: https://www.bioinformatics.babraham.ac.uk/projects/fastq_screen/
+
+UX tools for Life Sciences: https://uxls.org/
