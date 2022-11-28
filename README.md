@@ -217,4 +217,5 @@ Python visualization:
   - https://docs.bokeh.org/en/latest/
   - https://altair-viz.github.io/
  
- 
+Genomics and software engineering: https://news.ycombinator.com/item?id=33671264
+
