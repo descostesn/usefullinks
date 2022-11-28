@@ -212,3 +212,9 @@ UX toolkit for Life Sciences: https://uxls.org/
 
 The perfect team by Google: [1](https://www.cnbc.com/2019/02/28/what-google-learned-in-its-quest-to-build-the-perfect-team.html) & [2](https://rework.withgoogle.com/print/guides/5721312655835136/)
 
+Python visualization:
+  - https://streamlit.io/
+  - https://docs.bokeh.org/en/latest/
+  - https://altair-viz.github.io/
+ 
+ 
