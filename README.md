@@ -224,3 +224,5 @@ sapling (git control): https://engineering.fb.com/2022/11/15/open-source/sapling
 About Free Open Source Software (FOSS): https://www.kooslooijesteijn.net/blog/why-is-free-open-source-software-badly-designed?pk_campaign=rss
 
 Single-cell best practices: https://www.sc-best-practices.org/preamble.html
+
+Scientific publishing with Quarto: https://quarto.org/
