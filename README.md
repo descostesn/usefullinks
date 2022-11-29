@@ -226,3 +226,15 @@ About Free Open Source Software (FOSS): https://www.kooslooijesteijn.net/blog/wh
 Single-cell best practices: https://www.sc-best-practices.org/preamble.html
 
 Scientific publishing with Quarto: https://quarto.org/
+
+Here are some resources for teaching Bioinformatics:
+https://bio-it.embl.de/course-materials/
+https://tess.elixir-europe.org/materials
+https://elixir-fair-training.github.io/FAIR-training-handbook/
+https://www.mygoblet.org/training-materials/
+https://www.mygoblet.org/training-portal/
+https://www.ebi.ac.uk/training/on-demand
+https://www.bioinformatics.babraham.ac.uk/training.html
+https://training.galaxyproject.org/
+https://github.com/carpentries-incubator
+https://software-carpentry.org/lessons/
