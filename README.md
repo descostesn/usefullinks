@@ -238,3 +238,5 @@ Here are some resources for teaching Bioinformatics:
   - https://training.galaxyproject.org/
   - https://github.com/carpentries-incubator
   - https://software-carpentry.org/lessons/
+  - https://github.com/gladstone-institutes/Bioinformatics-Workshops/wiki
+  
