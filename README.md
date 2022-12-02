@@ -241,3 +241,4 @@ Here are some resources for teaching Bioinformatics:
   - https://github.com/gladstone-institutes/Bioinformatics-Workshops/wiki
   - https://bioinformatics.sph.harvard.edu/training
   
+- Can Bioinformatics Work As Data Scientist? https://workwut.com/bioinformatics-work-data-scientist/
