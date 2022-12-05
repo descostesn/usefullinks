@@ -242,3 +242,5 @@ Here are some resources for teaching Bioinformatics:
   - https://bioinformatics.sph.harvard.edu/training
   
 - Can Bioinformatics Work As Data Scientist? https://workwut.com/bioinformatics-work-data-scientist/
+
+- AWS genomics: https://aws.amazon.com/blogs/aws/introducing-amazon-omics-a-purpose-built-service-to-store-query-and-analyze-genomic-and-biological-data-at-scale/
