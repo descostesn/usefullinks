@@ -244,3 +244,5 @@ Here are some resources for teaching Bioinformatics:
 - Can Bioinformatics Work As Data Scientist? https://workwut.com/bioinformatics-work-data-scientist/
 
 - AWS genomics: https://aws.amazon.com/blogs/aws/introducing-amazon-omics-a-purpose-built-service-to-store-query-and-analyze-genomic-and-biological-data-at-scale/
+
+- spike-chip: https://academic.oup.com/nargab/article/3/3/lqab064/6329082
