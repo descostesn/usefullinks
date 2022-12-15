@@ -248,3 +248,5 @@ AWS genomics: https://aws.amazon.com/blogs/aws/introducing-amazon-omics-a-purpos
 spike-chip: https://academic.oup.com/nargab/article/3/3/lqab064/6329082
 
 What Is the Key Best Practice for Collaborating with a Computational Biologist?: see [here](https://www.cell.com/cell-systems/fulltext/S2405-4712(16)30223-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS240547121630223X%3Fshowall%3Dtrue)
+
+T3E: a tool for characterising the epigenetic profile of transposable elements using ChIP-seq data: https://mobilednajournal.biomedcentral.com/articles/10.1186/s13100-022-00285-z
