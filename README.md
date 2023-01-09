@@ -252,3 +252,5 @@ What Is the Key Best Practice for Collaborating with a Computational Biologist?:
 T3E: a tool for characterising the epigenetic profile of transposable elements using ChIP-seq data: https://mobilednajournal.biomedcentral.com/articles/10.1186/s13100-022-00285-z
 
 Learning git: https://docs.github.com/en/get-started/quickstart/set-up-git
+
+18 repositories for developpers: See [Tweet](https://twitter.com/madzadev/status/1604488776302084101?t=0lhlhpwH6XuBBokXurFTXQ&s=03)
