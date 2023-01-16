@@ -254,3 +254,5 @@ T3E: a tool for characterising the epigenetic profile of transposable elements u
 Learning git: https://docs.github.com/en/get-started/quickstart/set-up-git
 
 18 repositories for developpers: See [Tweet](https://twitter.com/madzadev/status/1604488776302084101?t=0lhlhpwH6XuBBokXurFTXQ&s=03)
+
+Fundamental of data visualization: https://clauswilke.com/dataviz/
