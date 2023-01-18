@@ -260,3 +260,5 @@ Fundamentals of data visualization: https://clauswilke.com/dataviz/
 Conda docker tutorial: https://kevalnagda.github.io/conda-docker-tutorial
 
 Intro to containers: https://biocorecrg.github.io/CoursesCRG_Containers_Nextflow_May_2021/index.html
+
+SeqCode: http://ldicrocelab.crg.eu/index.php
