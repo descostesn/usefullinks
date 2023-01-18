@@ -256,3 +256,5 @@ Learning git: https://docs.github.com/en/get-started/quickstart/set-up-git
 18 repositories for developpers: See [Tweet](https://twitter.com/madzadev/status/1604488776302084101?t=0lhlhpwH6XuBBokXurFTXQ&s=03)
 
 Fundamentals of data visualization: https://clauswilke.com/dataviz/
+
+Conda docker tutorial: https://kevalnagda.github.io/conda-docker-tutorial
