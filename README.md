@@ -264,3 +264,5 @@ Intro to containers: https://biocorecrg.github.io/CoursesCRG_Containers_Nextflow
 SeqCode: http://ldicrocelab.crg.eu/index.php
 
 Change chrom names in bam files: http://lindenb.github.io/jvarkit/ConvertBamChromosomes.html
+
+Galaxy tutorial on make and snakemake: https://training.galaxyproject.org/training-material/topics/data-science/tutorials/snakemake/tutorial.html
