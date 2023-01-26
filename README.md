@@ -266,3 +266,7 @@ SeqCode: http://ldicrocelab.crg.eu/index.php
 Change chrom names in bam files: http://lindenb.github.io/jvarkit/ConvertBamChromosomes.html
 
 Galaxy tutorial on make and snakemake: https://training.galaxyproject.org/training-material/topics/data-science/tutorials/snakemake/tutorial.html
+
+Web app with Flask: https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-using-flask-in-python-3
+
+List comprehension in Python: https://www.w3schools.com/python/python_lists_comprehension.asp
