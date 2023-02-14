@@ -216,6 +216,7 @@ Python visualization:
   - https://streamlit.io/
   - https://docs.bokeh.org/en/latest/
   - https://altair-viz.github.io/
+  - https://dash.plotly.com/
  
 Genomics and software engineering: https://news.ycombinator.com/item?id=33671264
 
