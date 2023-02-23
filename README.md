@@ -271,3 +271,5 @@ Galaxy tutorial on make and snakemake: https://training.galaxyproject.org/traini
 Web app with Flask: https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-using-flask-in-python-3
 
 List comprehension in Python: https://www.w3schools.com/python/python_lists_comprehension.asp
+
+BioGPT: https://github.com/microsoft/BioGPT
