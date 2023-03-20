@@ -273,3 +273,5 @@ Web app with Flask: https://www.digitalocean.com/community/tutorials/how-to-make
 List comprehension in Python: https://www.w3schools.com/python/python_lists_comprehension.asp
 
 BioGPT: https://github.com/microsoft/BioGPT
+
+Bioinfo training materials: https://glittr.org/?per_page=25&sort_by=stargazers&sort_direction=desc
