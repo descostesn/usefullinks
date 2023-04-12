@@ -277,3 +277,5 @@ BioGPT: https://github.com/microsoft/BioGPT
 Bioinfo training materials: https://glittr.org/?per_page=25&sort_by=stargazers&sort_direction=desc
 
 Bioconvert: https://www.biorxiv.org/content/10.1101/2023.03.13.532455v2.abstract
+
+deepscatter: https://observablehq.com/@bmschmidt/arxiv
