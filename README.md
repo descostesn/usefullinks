@@ -281,3 +281,5 @@ Bioconvert: https://www.biorxiv.org/content/10.1101/2023.03.13.532455v2.abstract
 deepscatter: https://observablehq.com/@bmschmidt/arxiv
 
 configure R in Vscode: https://code.visualstudio.com/docs/languages/r#_getting-started
+
+libmamba: https://www.anaconda.com/blog/a-faster-conda-for-a-growing-community
