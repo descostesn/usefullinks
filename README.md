@@ -283,3 +283,5 @@ deepscatter: https://observablehq.com/@bmschmidt/arxiv
 configure R in Vscode: https://code.visualstudio.com/docs/languages/r#_getting-started
 
 libmamba: https://www.anaconda.com/blog/a-faster-conda-for-a-growing-community
+
+Easeq: https://easeq.net/demo/
