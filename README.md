@@ -285,3 +285,5 @@ configure R in Vscode: https://code.visualstudio.com/docs/languages/r#_getting-s
 libmamba: https://www.anaconda.com/blog/a-faster-conda-for-a-growing-community
 
 Easeq: https://easeq.net/demo/
+
+Human Pangenome Consortium release: https://www.embl.org/news/science/a-more-diverse-human-reference-genome/
