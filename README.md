@@ -181,8 +181,6 @@ https://neurostars.org/
 https://neurostars.org/g/OCNSStudentSig
 https://www.cnsorg.org/newsletter
 
---------------------------------------------- October 2022
-
 https://git.embl.de/tabaro/snakemake-playground
 
 FAIR Computational Workflows:
@@ -287,3 +285,5 @@ libmamba: https://www.anaconda.com/blog/a-faster-conda-for-a-growing-community
 Easeq: https://easeq.net/demo/
 
 Human Pangenome Consortium release: https://www.embl.org/news/science/a-more-diverse-human-reference-genome/
+
+Logistic regression clearly explained: https://www.youtube.com/watch?v=9zw76PT3tzs
