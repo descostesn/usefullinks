@@ -291,3 +291,5 @@ Logistic regression clearly explained: https://www.youtube.com/watch?v=9zw76PT3t
 why do we use sigmoids: https://www.youtube.com/watch?v=Aj7O9qRNJPY
 
 Maximum likelihood clearly explained: https://www.youtube.com/watch?v=VOIhswqFWVc
+
+Expectation-maximization clearly explained: https://www.youtube.com/watch?v=xy96ArOpntA&t=557s
