@@ -289,3 +289,5 @@ Human Pangenome Consortium release: https://www.embl.org/news/science/a-more-div
 Logistic regression clearly explained: https://www.youtube.com/watch?v=9zw76PT3tzs
 
 why do we use sigmoids: https://www.youtube.com/watch?v=Aj7O9qRNJPY
+
+Maximum likelihood clearly explained: https://www.youtube.com/watch?v=VOIhswqFWVc
