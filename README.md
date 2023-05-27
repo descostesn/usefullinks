@@ -287,3 +287,5 @@ Easeq: https://easeq.net/demo/
 Human Pangenome Consortium release: https://www.embl.org/news/science/a-more-diverse-human-reference-genome/
 
 Logistic regression clearly explained: https://www.youtube.com/watch?v=9zw76PT3tzs
+
+why do we use sigmoids: https://www.youtube.com/watch?v=Aj7O9qRNJPY
